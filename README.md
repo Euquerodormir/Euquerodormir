@@ -1,4 +1,4 @@
-## Hi there 👋
+## Será que eu to pisando certo 👋
 
 <!--
 **Euquerodormir/Euquerodormir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/user-attachments/assets/4abd0a33-cc81-4470-853a-aeff9c913596)
